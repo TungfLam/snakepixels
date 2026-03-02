@@ -6,6 +6,8 @@
 
 Phần mềm chỉnh sửa ảnh **miễn phí, mã nguồn mở**, với giao diện đẹp và dễ sử dụng tương tự Canva. Chạy hoàn toàn **offline**, không giới hạn export!
 
+<img width="1920" height="1048" alt="image" src="https://github.com/user-attachments/assets/838ccde0-92c7-410e-9d80-5593c5780329" />
+
 ## Tính năng chính
 
 ### 🎨 Quản lý dự án
